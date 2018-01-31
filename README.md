@@ -1,8 +1,18 @@
+## Supported tags and respective `Dockerfile` links
+
+* [`latest` _(Dockerfile)_](https://github.com/tiangolo/docker-with-compose/blob/master/Dockerfile)
+
 # Docker with Docker Compose image
+
+## Description
 
 [Docker image](https://hub.docker.com/_/docker/) with [Docker Compose](https://github.com/docker/compose) installed.
 
 The main purpose of this image is to help in Continuous Integration environments that need the `docker` binary, the `docker-compose` binary and posibly require doing other things, like running Bash scripts.
+
+**GitHub repo**: <https://github.com/tiangolo/docker-with-compose>
+
+**Docker Hub image**: <https://hub.docker.com/r/tiangolo/docker-with-compose/>
 
 ## Usage
 
