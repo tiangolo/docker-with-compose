@@ -4,9 +4,9 @@
 
 # Docker with Docker Compose image
 
-## Description
+[Docker image](https://hub.docker.com/_/docker/) with [Docker Compose](https://github.com/docker/compose) installed for CI.
 
-[Docker image](https://hub.docker.com/_/docker/) with [Docker Compose](https://github.com/docker/compose) installed.
+## Description
 
 The main purpose of this image is to help in Continuous Integration environments that need the `docker` binary, the `docker-compose` binary and posibly require doing other things, like running Bash scripts.
 
