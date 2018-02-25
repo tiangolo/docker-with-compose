@@ -10,6 +10,10 @@
 
 The main purpose of this image is to help in Continuous Integration environments that need the `docker` binary, the `docker-compose` binary and posibly require doing other things, like running Bash scripts.
 
+It includes both programs and allows to run arbitrary bash scripts (contrary to the official Docker Compose image).
+
+By not having to install `docker-compose` on top of a `docker:latest` image it can reduce the building time about 10 / 15 seconds in a cloud data center for each build. In environments in where the Internet connection is less good than a cloud provider, the time saved would be more.
+
 **GitHub repo**: <https://github.com/tiangolo/docker-with-compose>
 
 **Docker Hub image**: <https://hub.docker.com/r/tiangolo/docker-with-compose/>
