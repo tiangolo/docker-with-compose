@@ -100,6 +100,8 @@ The same would apply for Travis, Jenkins or whichever CI system you use.
 
 ## Next Release
 
+* Add Travis CI. PR [#4](https://github.com/tiangolo/docker-with-compose/pull/4).
+
 * Upgrade Docker Compose installation. PR [#3](https://github.com/tiangolo/docker-with-compose/pull/3) by [@boskiv](https://github.com/boskiv).
 
 ## License
