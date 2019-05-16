@@ -93,3 +93,9 @@ ci:
 And it would run faster as it doesn't have to install Docker Compose every time.
 
 The same would apply for Travis, Jenkins or whichever CI system you use.
+
+## Release Notes
+
+## Next Release
+
+* Upgrade Docker Compose installation. PR [#3](https://github.com/tiangolo/docker-with-compose/pull/3) by [@boskiv](https://github.com/boskiv).
