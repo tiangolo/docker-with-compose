@@ -1,7 +1,7 @@
 name: CI
 on:
   schedule:
-  - cron: "0 0 * * *"
+  - cron: "0 * * * *"
 
 jobs:
   issue-manager:
