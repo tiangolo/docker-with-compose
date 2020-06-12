@@ -98,10 +98,10 @@ The same would apply for Travis, Jenkins or whichever CI system you use.
 
 ## Release Notes
 
-## Next Release
+## Latest Changes
 
+* Add `curl` to the installed and available packages. PR [#14](https://github.com/tiangolo/docker-with-compose/pull/14) by [@stratosgear](https://github.com/stratosgear).
 * Add Travis CI. PR [#4](https://github.com/tiangolo/docker-with-compose/pull/4).
-
 * Upgrade Docker Compose installation. PR [#3](https://github.com/tiangolo/docker-with-compose/pull/3) by [@boskiv](https://github.com/boskiv).
 
 ## License
