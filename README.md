@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/tiangolo/docker-with-compose.svg?branch=master)](https://travis-ci.org/tiangolo/docker-with-compose)
+[![Build Status](https://travis-ci.com/tiangolo/docker-with-compose.svg?branch=master)](https://travis-ci.com/tiangolo/docker-with-compose)
 
 ## Supported tags and respective `Dockerfile` links
 
