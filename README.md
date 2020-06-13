@@ -124,6 +124,8 @@ ci:
 
 And it would run faster as it doesn't have to install Docker Compose every time.
 
+And you could start that initial GitLab Runner following the [GitLab CI runner for CI/CD guide on DockerSwarm.rocks](https://dockerswarm.rocks/gitlab-ci/).
+
 The same would apply for Travis, Jenkins or whichever CI system you use.
 
 ## Release Notes
