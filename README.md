@@ -130,7 +130,7 @@ The same would apply for Travis, Jenkins or whichever CI system you use.
 
 ## Release Notes
 
-## Latest Changes
+### Latest Changes
 
 * Upgrade Python to use version 3.x. PR [#15](https://github.com/tiangolo/docker-with-compose/pull/15).
 * Add `curl` to the installed and available packages. PR [#14](https://github.com/tiangolo/docker-with-compose/pull/14) by [@stratosgear](https://github.com/stratosgear).
