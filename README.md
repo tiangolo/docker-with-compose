@@ -132,6 +132,7 @@ The same would apply for Travis, Jenkins or whichever CI system you use.
 
 ### Latest Changes
 
+* 👷 Move from Travis to GitHub Actions. PR [#23](https://github.com/tiangolo/docker-with-compose/pull/23) by [@tiangolo](https://github.com/tiangolo).
 * ✨ Add external dependencies and Dependabot to get automated upgrade PRs. PR [#27](https://github.com/tiangolo/docker-with-compose/pull/27) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add Latest Changes GitHub Action. PR [#24](https://github.com/tiangolo/docker-with-compose/pull/24) by [@tiangolo](https://github.com/tiangolo).
 * Upgrade Python to use version 3.x. PR [#15](https://github.com/tiangolo/docker-with-compose/pull/15).
