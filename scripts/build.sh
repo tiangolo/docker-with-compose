@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
+
 set -e
 
-docker build -t tiangolo/docker-with-compose .
+basename="tiangolo/docker-with-compose"
+latest_tag="${basename}:latest"
+
+docker build -t "$latest_tag" .
