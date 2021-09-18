@@ -1,8 +1,10 @@
-[![Build Status](https://travis-ci.com/tiangolo/docker-with-compose.svg?branch=master)](https://travis-ci.com/tiangolo/docker-with-compose)
+[![Test](https://github.com/tiangolo/docker-with-compose/workflows/Test/badge.svg)](https://github.com/tiangolo/docker-with-compose/actions?query=workflow%3ATest) [![Deploy](https://github.com/tiangolo/docker-with-compose/workflows/Deploy/badge.svg)](https://github.com/tiangolo/docker-with-compose/actions?query=workflow%3ADeploy)
 
 ## Supported tags and respective `Dockerfile` links
 
 * [`latest` _(Dockerfile)_](https://github.com/tiangolo/docker-with-compose/blob/master/Dockerfile)
+
+**Note**: There are [tags for each build date](https://hub.docker.com/r/tiangolo/docker-with-compose/tags). If you need to "pin" the Docker image version you use, you can select one of those tags. E.g. `tiangolo/docker-with-compose:2021-09-17`.
 
 # Docker with Docker Compose image
 
