@@ -134,6 +134,7 @@ The same would apply for Travis, Jenkins or whichever CI system you use.
 
 ### Latest Changes
 
+* ⬆️ Bump tiangolo/issue-manager from 0.3.0 to 0.4.0. PR [#28](https://github.com/tiangolo/docker-with-compose/pull/28) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump actions/checkout from 2 to 3.1.0. PR [#31](https://github.com/tiangolo/docker-with-compose/pull/31) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 🐛 Fix deployment. PR [#26](https://github.com/tiangolo/docker-with-compose/pull/26) by [@tiangolo](https://github.com/tiangolo).
 * 🐛 Fix GitHub Actions and latest requirements. PR [#25](https://github.com/tiangolo/docker-with-compose/pull/25) by [@tiangolo](https://github.com/tiangolo).
