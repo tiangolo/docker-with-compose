@@ -134,6 +134,7 @@ The same would apply for Travis, Jenkins or whichever CI system you use.
 
 ### Latest Changes
 
+* 👷 Add automatic scheduled CI every Monday. PR [#37](https://github.com/tiangolo/docker-with-compose/pull/37) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Update README, replace bash with shell, as Bash itself is not installed. PR [#36](https://github.com/tiangolo/docker-with-compose/pull/36) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add alls-green GitHub Action. PR [#35](https://github.com/tiangolo/docker-with-compose/pull/35) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Do not run double CI for PRs, run on push only on master. PR [#34](https://github.com/tiangolo/docker-with-compose/pull/34) by [@tiangolo](https://github.com/tiangolo).
