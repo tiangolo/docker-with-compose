@@ -26,8 +26,8 @@ By not having to install `docker-compose` on top of a `docker:latest` image it c
 
 Pull the image:
 
-```bash
-docker pull tiangolo/docker-with-compose
+```console
+$ docker pull tiangolo/docker-with-compose
 ```
 
 Then run a container of this image **mounting the Docker sock** as a host volume.
@@ -54,8 +54,8 @@ You could:
 * Mount the local Docker sock.
 * Build that Nginx image from inside of container running this image.
 
-```bash
-docker run -v $(pwd):/app -v /var/run/docker.sock:/var/run/docker.sock tiangolo/docker-with-compose sh -c "cd /app/ && docker build -t custom-nginx ."
+```console
+$ docker run -v $(pwd):/app -v /var/run/docker.sock:/var/run/docker.sock tiangolo/docker-with-compose sh -c "cd /app/ && docker build -t custom-nginx ."
 ```
 
 ## Problem description
@@ -68,7 +68,7 @@ So, it's not possible to run other commands on that image, like installing somet
 
 And it's also not possible to run `docker` commands directly, e.g. `docker login -u ci-user -p $CI_JOB_TOKEN $CI_REGISTRY`.
 
-This image allows running arbitrary commands like Bash scripts, `docker` commands and also Docker Compose commands like `docker-compose build` and `docker-compose push`.
+This image allows running arbitrary commands like shell scripts, `docker` commands and also Docker Compose commands like `docker-compose build` and `docker-compose push`.
 
 As several Continuous Integration systems allow doing previous steps, like installing packages before running the actual main script, those steps could be used to install Docker Compose. But by downloading and installing Docker Compose every time, the builds would be slower.
 
