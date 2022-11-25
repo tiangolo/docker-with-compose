@@ -134,6 +134,7 @@ The same would apply for Travis, Jenkins or whichever CI system you use.
 
 ### Latest Changes
 
+* 👷 Add GitHub Action for Docker Hub description. PR [#41](https://github.com/tiangolo/docker-with-compose/pull/41) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Upgrade CI OS. PR [#40](https://github.com/tiangolo/docker-with-compose/pull/40) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Add funding config. PR [#39](https://github.com/tiangolo/docker-with-compose/pull/39) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add automatic scheduled CI every monday. PR [#38](https://github.com/tiangolo/docker-with-compose/pull/38) by [@tiangolo](https://github.com/tiangolo).
