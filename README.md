@@ -134,6 +134,7 @@ The same would apply for Travis, Jenkins or whichever CI system you use.
 
 ### Latest Changes
 
+* 👷 Add alls-green GitHub Action. PR [#35](https://github.com/tiangolo/docker-with-compose/pull/35) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Do not run double CI for PRs, run on push only on master. PR [#34](https://github.com/tiangolo/docker-with-compose/pull/34) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Bump tiangolo/issue-manager from 0.3.0 to 0.4.0. PR [#28](https://github.com/tiangolo/docker-with-compose/pull/28) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump actions/checkout from 2 to 3.1.0. PR [#31](https://github.com/tiangolo/docker-with-compose/pull/31) by [@dependabot[bot]](https://github.com/apps/dependabot).
