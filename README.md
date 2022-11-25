@@ -134,6 +134,7 @@ The same would apply for Travis, Jenkins or whichever CI system you use.
 
 ### Latest Changes
 
+* 🔧 Add funding config. PR [#39](https://github.com/tiangolo/docker-with-compose/pull/39) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add automatic scheduled CI every monday. PR [#38](https://github.com/tiangolo/docker-with-compose/pull/38) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add automatic scheduled CI every Monday. PR [#37](https://github.com/tiangolo/docker-with-compose/pull/37) by [@tiangolo](https://github.com/tiangolo).
 * 📝 Update README, replace bash with shell, as Bash itself is not installed. PR [#36](https://github.com/tiangolo/docker-with-compose/pull/36) by [@tiangolo](https://github.com/tiangolo).
