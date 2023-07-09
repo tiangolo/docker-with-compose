@@ -134,6 +134,7 @@ The same would apply for Travis, Jenkins or whichever CI system you use.
 
 ### Latest Changes
 
+* ⬆️ Bump actions/checkout from 3.1.0 to 3.3.0. PR [#44](https://github.com/tiangolo/docker-with-compose/pull/44) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Update Latest Changes token. PR [#46](https://github.com/tiangolo/docker-with-compose/pull/46) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add GitHub Action for Docker Hub description. PR [#41](https://github.com/tiangolo/docker-with-compose/pull/41) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Upgrade CI OS. PR [#40](https://github.com/tiangolo/docker-with-compose/pull/40) by [@tiangolo](https://github.com/tiangolo).
