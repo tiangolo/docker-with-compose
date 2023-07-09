@@ -1,3 +1,11 @@
+## 🚨 DEPRECATION WARNING 🚨
+
+As [Docker now has `compose` built in](https://github.com/docker-library/docker/pull/361) there's no longer need for this Docker image.
+
+You should use the official [Docker image](https://hub.docker.com/_/docker/) instead.
+
+---
+
 [![Test](https://github.com/tiangolo/docker-with-compose/workflows/Test/badge.svg)](https://github.com/tiangolo/docker-with-compose/actions?query=workflow%3ATest) [![Deploy](https://github.com/tiangolo/docker-with-compose/workflows/Deploy/badge.svg)](https://github.com/tiangolo/docker-with-compose/actions?query=workflow%3ADeploy)
 
 ## Supported tags and respective `Dockerfile` links
