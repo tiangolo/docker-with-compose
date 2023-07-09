@@ -142,6 +142,7 @@ The same would apply for Travis, Jenkins or whichever CI system you use.
 
 ### Latest Changes
 
+* 🗑️ Deprecate this project, use official Docker instead 🎉. PR [#47](https://github.com/tiangolo/docker-with-compose/pull/47) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Bump actions/checkout from 3.1.0 to 3.3.0. PR [#44](https://github.com/tiangolo/docker-with-compose/pull/44) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Update Latest Changes token. PR [#46](https://github.com/tiangolo/docker-with-compose/pull/46) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add GitHub Action for Docker Hub description. PR [#41](https://github.com/tiangolo/docker-with-compose/pull/41) by [@tiangolo](https://github.com/tiangolo).
